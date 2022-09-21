@@ -1,5 +1,5 @@
 <h1 align="center">Hello there</h1>
-<p align="center">Hii! I'm Jatin Sharma, an undergraduate living an awesome life.I am new to open source currently learning backend development.</p>
+<p align="center">Hii! I'm Jatin Sharma, an undergraduate living an awesome life. I am new to open source and currently learning backend development.</p>
 
 - 👯 I’m looking to collaborate on **projects**
 
