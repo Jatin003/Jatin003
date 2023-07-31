@@ -12,5 +12,5 @@
 <p align="left">
 <a href="https://twitter.com/jatin_oo3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jatin_oo3" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jatin sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jatin sharma" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/jatin__003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jatin__003" height="30" width="40" /></a>
+
 </p>
