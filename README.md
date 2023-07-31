@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **Connect with me on LinkedIn , or mail at jatinsharma03052002@gmail.com**
 
-- 📄 Know about my experiences [My resume](http://surl.li/czegd)
 
 <h3 align="left">Connect with me on:</h3>
 <p align="left">
