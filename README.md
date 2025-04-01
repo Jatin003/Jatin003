@@ -27,7 +27,7 @@
 ### 🎯 Let's Collaborate!
 - 🤝 **Looking to collaborate on:** Secure Software Design, Competitive Programming, and Scalable Systems.
 - 💡 **Ask me about:** Backend Development, Security Best Practices, and Performance Optimization.
-- 📫 **Reach me at:** [LinkedIn](https://linkedin.com/in/jatin-sharma) | [Twitter](https://twitter.com/jatin_oo3)
+- 📫 **Reach me at:** [LinkedIn](https://linkedin.com/in/jatin-sharma)
 
 ---
 
